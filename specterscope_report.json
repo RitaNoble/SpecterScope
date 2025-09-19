@@ -1,0 +1,113 @@
+[
+  {
+    "target": "wikipedia.org",
+    "dns_records": {
+      "A": [
+        "185.15.58.224"
+      ],
+      "MX": [
+        "mx-in1001.wikimedia.org.",
+        "mx-in2001.wikimedia.org."
+      ]
+    },
+    "whois_data": {
+      "domain_name": "wikipedia.org",
+      "registrar": "MarkMonitor Inc.",
+      "registrar_url": "http://www.markmonitor.com",
+      "whois_server": "http://whois.markmonitor.com",
+      "updated_date": "2024-12-17 09:19:05",
+      "creation_date": "2001-01-13 00:12:14",
+      "expiration_date": "2026-01-13 00:12:14",
+      "name_servers": "['ns0.wikimedia.org', 'ns1.wikimedia.org', 'ns2.wikimedia.org']",
+      "status": "['clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited', 'clientTransferProhibited https://icann.org/epp#clientTransferProhibited', 'clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited']",
+      "emails": "abusecomplaints@markmonitor.com",
+      "dnssec": "unsigned",
+      "name": "REDACTED",
+      "org": "Wikimedia Foundation, Inc.",
+      "address": "REDACTED",
+      "city": "REDACTED",
+      "state": "CA",
+      "registrant_postal_code": "REDACTED",
+      "country": "US"
+    },
+    "http_headers": {},
+    "timestamp": "2025-09-19T10:12:48.543991"
+  },
+  {
+    "target": "iana.org",
+    "dns_records": {
+      "A": [
+        "192.0.43.8"
+      ],
+      "MX": [
+        "pechora1.icann.org.",
+        "pechora6.icann.org.",
+        "pechora7.icann.org.",
+        "pechora8.icann.org."
+      ]
+    },
+    "whois_data": {
+      "domain_name": "iana.org",
+      "registrar": "CSC Corporate Domains, Inc.",
+      "registrar_url": "http://www.cscglobal.com/global/web/csc/digital-brand",
+      "whois_server": "http://whois.cscglobal.com",
+      "updated_date": "2025-05-16 16:55:01",
+      "creation_date": "1995-06-05 04:00:00",
+      "expiration_date": "2027-12-08 17:00:53",
+      "name_servers": "['ns.icann.org', 'a.iana-servers.net', 'b.iana-servers.net', 'c.iana-servers.net']",
+      "status": "['serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited', 'serverTransferProhibited https://icann.org/epp#serverTransferProhibited', 'serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited']",
+      "emails": "domainabuse@cscglobal.com",
+      "dnssec": "signedDelegation",
+      "name": "REDACTED",
+      "org": "IETF Trust",
+      "address": "REDACTED",
+      "city": "REDACTED",
+      "state": "VA",
+      "registrant_postal_code": "REDACTED",
+      "country": "US"
+    },
+    "http_headers": {},
+    "timestamp": "2025-09-19T10:12:48.544294"
+  },
+  {
+    "target": "example.com",
+    "dns_records": {
+      "A": [
+        "23.192.228.80",
+        "23.192.228.84",
+        "23.215.0.136",
+        "23.215.0.138",
+        "23.220.75.232",
+        "23.220.75.245"
+      ],
+      "MX": [
+        "."
+      ]
+    },
+    "whois_data": {
+      "domain_name": "EXAMPLE.COM",
+      "registrar": "RESERVED-Internet Assigned Numbers Authority",
+      "registrar_url": "http://res-dom.iana.org",
+      "whois_server": "whois.iana.org",
+      "updated_date": "2025-08-14 07:01:39",
+      "creation_date": "1995-08-14 04:00:00",
+      "expiration_date": "2026-08-13 04:00:00",
+      "name_servers": "['A.IANA-SERVERS.NET', 'B.IANA-SERVERS.NET']",
+      "status": "['clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited', 'clientTransferProhibited https://icann.org/epp#clientTransferProhibited', 'clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited']",
+      "dnssec": "signedDelegation"
+    },
+    "http_headers": {
+      "Accept-Ranges": "bytes",
+      "Content-Type": "text/html",
+      "Etag": "\"84238dfc8092e5d9c0dac8ef93371a07:1736799080.121134\"",
+      "Last-Modified": "Mon, 13 Jan 2025 20:11:20 GMT",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "gzip",
+      "Cache-Control": "max-age=86000",
+      "Date": "Fri, 19 Sep 2025 10:12:49 GMT",
+      "Content-Length": "648",
+      "Connection": "keep-alive"
+    },
+    "timestamp": "2025-09-19T10:12:49.313647"
+  }
+]
